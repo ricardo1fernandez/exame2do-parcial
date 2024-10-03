@@ -8,7 +8,6 @@ cycler==0.12.1
 dbus-python==1.2.18
 distro==1.7.0
 distro-info===1.1build1
-dptools @ file:///mnt/c/Users/ricar/src/dptools
 Flask==3.0.3
 Flask-SQLAlchemy==3.1.1
 fonttools==4.53.1
